@@ -1,0 +1,6 @@
+Get next line function gets the next line from the file given as parameter.
+It allocates space for the given line pointer and writes the line.
+It can read from different file descriptors.
+Returns if the function succeeded with 1. If it failed it returns -1.
+
+The main is an example of possible use.
